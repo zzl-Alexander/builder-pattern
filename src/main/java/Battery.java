@@ -1,7 +1,7 @@
-public class CPU implements Item {
+public  class Battery implements Item{
 
     public String name() {
-        return "CPU";
+        return "Battery";
     }
 
     @Override
@@ -12,5 +12,4 @@ public class CPU implements Item {
     public Parts part() {
         return new Necessary();
     }
-
 }
