@@ -6,7 +6,5 @@ public class GPS implements Item{
     public Parts parts() {
         return new Optional();
     }
-    public Parts part() {
-        return new Optional();
-    }
+
 }

@@ -9,7 +9,4 @@ public class Fingerprint_identification implements Item{
         return new Optional();
     }
 
-    public Parts part() {
-        return new Optional();
-    }
 }

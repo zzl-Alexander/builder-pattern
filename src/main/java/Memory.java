@@ -7,7 +7,5 @@ public  class Memory implements Item{
     public Parts parts() {
         return new Necessary();
     }
-    public Parts part() {
-        return new Necessary();
-    }
+
 }

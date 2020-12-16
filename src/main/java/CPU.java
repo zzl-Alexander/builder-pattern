@@ -9,8 +9,5 @@ public class CPU implements Item {
         return new Necessary();
     }
 
-    public Parts part() {
-        return new Necessary();
-    }
 
 }

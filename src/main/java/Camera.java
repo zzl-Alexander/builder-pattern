@@ -9,7 +9,4 @@ public class Camera implements Item{
         return new Optional();
     }
 
-    public Parts part() {
-        return new Optional();
-    }
 }

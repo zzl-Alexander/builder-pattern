@@ -9,7 +9,4 @@ public  class Battery implements Item{
         return new Necessary();
     }
 
-    public Parts part() {
-        return new Necessary();
-    }
 }
